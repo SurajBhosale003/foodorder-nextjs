@@ -4,6 +4,14 @@
     |-- globals.css
     |-- layout.tsx
     |-- page.tsx
+    |-- pages
+        |-- AddChildrenPage.tsx
+        |-- HomePage.tsx
+        |-- LoginPage.tsx
+        |-- MealOrderPage.tsx
+        |-- ParentDashboard.tsx
+        |-- SelectPlanPage.tsx
+        |-- Untitled-1
 |-- components
     |-- AddChildrenPage.tsx
     |-- HomePage.tsx
@@ -76,6 +84,14 @@
 |-- next-env.d.ts
 |-- next.config.mjs
 |-- package.json
+|-- pages
+    |-- AddChildrenPage.tsx
+    |-- HomePage.tsx
+    |-- LoginPage.tsx
+    |-- MealOrderPage.tsx
+    |-- ParentDashboard.tsx
+    |-- SelectPlanPage.tsx
+    |-- Untitled-1
 |-- pnpm-lock.yaml
 |-- postcss.config.mjs
 |-- public
